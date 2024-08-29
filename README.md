@@ -1,6 +1,6 @@
 - 👋 Olá, sou o Rafael-Cabral-Kfouri
 - 🚗 Atualmente minha profissão é motorista
-- 👨🏻‍🎓 Cursando graduação em T.I(conclusão em 2026). Escolhi a linguagem Javascript.
+- 👨🏻‍🎓 Cursando graduação em T.I (conclusão em 2026). Escolhi a linguagem Javascript.
 - 👨‍💻 Procuro colaborar em desenvolvimento front-end
 - 🧔🏻 Pronomes: ele/dele
   
