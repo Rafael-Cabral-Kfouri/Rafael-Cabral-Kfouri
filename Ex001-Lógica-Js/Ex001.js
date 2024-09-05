@@ -1,6 +1,6 @@
 //Exercício 2 - Página 41 do Livro Lógica de Programação e Algorítmos com Javascript
 //3 passos:
-//Ler valor do jantar, infromar o valor da taxa(10%) e infromar valor total a ser pago
+//Ler valor do jantar, informar o valor da taxa do graçon(10%) e informar o valor total a ser pago.
 
 let valorJantar = 80;
 let taxaGarcon = 10;
