@@ -1,4 +1,4 @@
-//Exercício  - Página 41 do Livro Lógica de Programação e Algorítmos com Javascript
+//Exercício 02  - Página 41 do Livro Lógica de Programação e Algorítmos com Javascript
 //3 passos:
 //Ler valor do jantar, informar o valor da taxa do graçon(10%) e informar o valor total a ser pago.
 
