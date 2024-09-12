@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-Br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script type="text/javascript"> 
+    var matriz = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9],
+]
+
+    var valores = 0;
+    for (var L = 0; L <= 2; L++) {
+        for (var C = 0; C <= 2; C++) {
+          if(C < 1){
+             valores += matriz [L] [C] ;
+          } else {
+         valores += matriz [L] [C] + "\n";
+          }
+        }
+    }
+    for (var L = 0; L <= 2; L++) {
+        for (var C = 0; C <= 2; C++) {
+            valores += matriz [L] [C] + "\n";
+        }
+    }
+    alert('Conteúdo da matriz:\n' + valores);
+    </script>
+</body>
+</html>
