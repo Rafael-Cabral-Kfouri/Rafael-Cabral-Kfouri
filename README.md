@@ -1,5 +1,8 @@
 
-<h2>Hello World👋 , I'm Rafael👨‍💻, be very welcome!</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=0077B6&center=true&vCenter=true&width=500&lines=Hello+World👋;I'm+Rafael👨‍💻;Be+very+welcome!" alt="Typing SVG" />
+</h2>
+
   
 <div align="center">
   <img src="https://github.com/user-attachments/assets/8aeab59b-0f06-421a-8f59-9cf911ce07bd" width="500" />
