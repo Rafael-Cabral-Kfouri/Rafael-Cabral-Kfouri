@@ -1,8 +1,8 @@
 
 <h2>Hello World👋 , I'm Rafael👨‍💻, be very welcome!</h2>
   
- <div align="center">
-  <img src="https://github.com/user-attachments/assets/8aeab59b-0f06-421a-8f59-9cf911ce07bd" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8aeab59b-0f06-421a-8f59-9cf911ce07bd" width="790" />
 </div>
   
 <div align="center">
