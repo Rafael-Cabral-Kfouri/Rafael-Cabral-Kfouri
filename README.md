@@ -6,6 +6,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rafael-Cabral-Kfouri&theme=great-gatsby&show_icons=true" />
 </a>
+
+<div class="tenor-gif-embed" data-postid="10599410442824479167" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+  <a href="https://tenor.com/view/coding-gif-10599410442824479167">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafael-Cabral-Kfouri&layout=donut&theme=great-gatsby" />
 </a>
